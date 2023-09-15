@@ -2,9 +2,9 @@ ExifToolVersion                 : 12.60
 FileName                        : image-1.dng
 Directory                       : /Volumes/SSD500/Las Palmas Timelapse/LPA DNG/test
 FileSize                        : 9.4 MB
-FileModifyDate                  : 2023:09:15 06:06:31+01:00
-FileAccessDate                  : 2023:09:15 06:06:38+01:00
-FileInodeChangeDate             : 2023:09:15 06:06:31+01:00
+FileModifyDate                  : 2023:09:15 10:46:30+01:00
+FileAccessDate                  : 2023:09:15 10:55:35+01:00
+FileInodeChangeDate             : 2023:09:15 10:46:30+01:00
 FilePermissions                 : -rw-r--r--
 FileType                        : DNG
 FileTypeExtension               : dng
@@ -12,7 +12,7 @@ MIMEType                        : image/x-adobe-dng
 ExifByteOrder                   : Little-endian (Intel, II)
 Make                            : SONY
 Model                           : ILCE-7M4
-PreviewImageStart               : 9345684
+PreviewImageStart               : 9346160
 Orientation                     : Horizontal (normal)
 RowsPerStrip                    : 171
 PreviewImageLength              : 8453
@@ -50,26 +50,24 @@ LensDistortInfo                 : 33610/32768 -123623665/1073741824 123974376/10
 Format                          : image/dng
 DateCreated                     : 2023:09:14 21:29:23.847+02:00
 CreatorTool                     : Adobe DNG Converter 15.5 (Macintosh)
-Label                           : Red
-MetadataDate                    : 2023:09:15 06:06:31+01:00
+MetadataDate                    : 2023:09:15 10:46:30+01:00
 DocumentID                      : xmp.did:10681691-43d1-48c0-b9c0-da6f7dde7555
-InstanceID                      : xmp.iid:1256e3fb-c1b5-40ac-b514-120f361a0113
+InstanceID                      : xmp.iid:68b78792-dfe4-41f0-ab9d-ffbc4b2796fd
 OriginalDocumentID              : 59880E43522B8BDF061FD7B9D34D570F
 PreservedFileName               : 16mm_dusk_boardwalk-1.dng
 Version                         : 15.5
 ProcessVersion                  : 15.4
 Tint                            : +22
-Exposure                        : -1.00
-Exposure2012                    : -1.00
-Contrast2012                    : 0
-Highlights2012                  : 0
-Shadows2012                     : 0
-Whites2012                      : 0
-Blacks2012                      : 0
+Exposure2012                    : +1.02
+Contrast2012                    : +6
+Highlights2012                  : -54
+Shadows2012                     : +65
+Whites2012                      : +24
+Blacks2012                      : -15
 Texture                         : 0
 Clarity2012                     : 0
 Dehaze                          : 0
-Vibrance                        : 0
+Vibrance                        : +11
 ParametricShadows               : 0
 ParametricDarks                 : 0
 ParametricLights                : 0
@@ -153,17 +151,20 @@ OverrideLookVignette            : False
 ToneCurveName2012               : Linear
 CameraProfile                   : Adobe Standard
 CameraProfileDigest             : A4DC20C59DE4E2DF67946B80BFDA0801
+AutoToneDigest                  : B6D982C52CCBC69ECE66128A846EC9D4
+AutoToneDigestNoSat             : B6ECFE3434B6544D89D8AB67E8EB34EA
 HasSettings                     : True
 AlreadyApplied                  : False
 RawFileName                     : image-1.dng
+Subject                         : keyframe, something
 DerivedFromDocumentID           : 59880E43522B8BDF061FD7B9D34D570F
 DerivedFromOriginalDocumentID   : 59880E43522B8BDF061FD7B9D34D570F
 HistoryAction                   : derived, saved, saved, saved
 HistoryParameters               : converted from image/x-sony-arw to image/dng, saved to new location
 HistoryChanged                  : /, /metadata, /metadata
-HistoryInstanceID               : xmp.iid:10681691-43d1-48c0-b9c0-da6f7dde7555, xmp.iid:40f0688f-7a9a-44f8-8da1-dbadc1f10cdb, xmp.iid:1256e3fb-c1b5-40ac-b514-120f361a0113
+HistoryInstanceID               : xmp.iid:10681691-43d1-48c0-b9c0-da6f7dde7555, xmp.iid:40f0688f-7a9a-44f8-8da1-dbadc1f10cdb, xmp.iid:68b78792-dfe4-41f0-ab9d-ffbc4b2796fd
 HistorySoftwareAgent            : Adobe DNG Converter 15.5 (Macintosh), Adobe Photoshop Lightroom Classic 12.5 (Macintosh), Adobe Photoshop Lightroom Classic 12.5 (Macintosh)
-HistoryWhen                     : 2023:09:14 22:28:11+01:00, 2023:09:15 05:29:18+01:00, 2023:09:15 06:06:31+01:00
+HistoryWhen                     : 2023:09:14 22:28:11+01:00, 2023:09:15 05:29:18+01:00, 2023:09:15 10:46:30+01:00
 ToneCurvePV2012                 : 0, 0, 255, 255
 ToneCurvePV2012Red              : 0, 0, 255, 255
 ToneCurvePV2012Green            : 0, 0, 255, 255
@@ -184,6 +185,8 @@ LookParametersToneCurvePV2012   : 0, 0, 22, 16, 40, 35, 127, 127, 224, 230, 240,
 LookParametersToneCurvePV2012Red: 0, 0, 255, 255
 LookParametersToneCurvePV2012Green: 0, 0, 255, 255
 LookParametersToneCurvePV2012Blue: 0, 0, 255, 255
+WeightedFlatSubject             : keyframe, something
+HierarchicalSubject             : keyframe, something
 FNumber                         : 4.0
 ExposureProgram                 : Aperture-priority AE
 ISO                             : 500
