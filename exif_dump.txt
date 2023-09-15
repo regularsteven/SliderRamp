@@ -1,0 +1,385 @@
+ExifToolVersion                 : 12.60
+FileName                        : image-1.dng
+Directory                       : /Volumes/SSD500/Las Palmas Timelapse/LPA DNG/test
+FileSize                        : 9.4 MB
+FileModifyDate                  : 2023:09:15 06:05:10+01:00
+FileAccessDate                  : 2023:09:15 06:05:10+01:00
+FileInodeChangeDate             : 2023:09:15 06:05:10+01:00
+FilePermissions                 : -rw-r--r--
+FileType                        : DNG
+FileTypeExtension               : dng
+MIMEType                        : image/x-adobe-dng
+ExifByteOrder                   : Little-endian (Intel, II)
+Make                            : SONY
+Model                           : ILCE-7M4
+PreviewImageStart               : 9345684
+Orientation                     : Horizontal (normal)
+RowsPerStrip                    : 171
+PreviewImageLength              : 8453
+Software                        : Adobe DNG Converter 15.5 (Macintosh)
+ModifyDate                      : 2023:09:14 22:28:11
+SubfileType                     : Full-resolution image
+ImageWidth                      : 7008
+ImageHeight                     : 4672
+BitsPerSample                   : 8 8 8
+Compression                     : Lossy JPEG
+PhotometricInterpretation       : Linear Raw
+SamplesPerPixel                 : 3
+PlanarConfiguration             : Chunky
+TileWidth                       : 512
+TileLength                      : 480
+TileOffsets                     : (Binary data 1102 bytes, use -b option to extract)
+TileByteCounts                  : (Binary data 843 bytes, use -b option to extract)
+BlackLevelRepeatDim             : 1 1
+BlackLevel                      : 11 0 3
+WhiteLevel                      : 255 255 255
+DefaultScale                    : 1 1
+DefaultCropOrigin               : 0 0
+DefaultCropSize                 : 7008 4672
+AntiAliasStrength               : 1
+BestQualityScale                : 1
+OpcodeList2                     : MapPolynomial, MapPolynomial, MapPolynomial
+YCbCrCoefficients               : 0.299 0.587 0.114
+YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+YCbCrPositioning                : Unknown (0)
+ReferenceBlackWhite             : 0 255 128 255 128 255
+XMPToolkit                      : Image::ExifTool 12.60
+LateralChromaticAberrationCorrectionAlreadyApplied: True
+Lens                            : FE 16-35mm F4 ZA OSS
+LensDistortInfo                 : 33610/32768 -123623665/1073741824 123974376/1073741824 -46645585/1073741824
+AlreadyApplied                  : False
+AutoLateralCA                   : 0
+Blacks2012                      : 0
+BlueHue                         : 0
+BlueSaturation                  : 0
+CameraProfile                   : Adobe Standard
+CameraProfileDigest             : A4DC20C59DE4E2DF67946B80BFDA0801
+Clarity2012                     : 0
+ColorGradeBlending              : 50
+ColorGradeGlobalHue             : 0
+ColorGradeGlobalLum             : 0
+ColorGradeGlobalSat             : 0
+ColorGradeHighlightLum          : 0
+ColorGradeMidtoneHue            : 0
+ColorGradeMidtoneLum            : 0
+ColorGradeMidtoneSat            : 0
+ColorGradeShadowLum             : 0
+ColorNoiseReduction             : 25
+ColorNoiseReductionDetail       : 50
+ColorNoiseReductionSmoothness   : 50
+Contrast2012                    : 0
+DefringeGreenAmount             : 0
+DefringeGreenHueHi              : 60
+DefringeGreenHueLo              : 40
+DefringePurpleAmount            : 0
+DefringePurpleHueHi             : 70
+DefringePurpleHueLo             : 30
+Dehaze                          : 0
+Exposure                        : -1.00
+Exposure2012                    : -1.0
+GrainAmount                     : 0
+GreenHue                        : 0
+GreenSaturation                 : 0
+HasSettings                     : True
+Highlights2012                  : 0
+HueAdjustmentAqua               : 0
+HueAdjustmentBlue               : 0
+HueAdjustmentGreen              : 0
+HueAdjustmentMagenta            : 0
+HueAdjustmentOrange             : 0
+HueAdjustmentPurple             : 0
+HueAdjustmentRed                : 0
+HueAdjustmentYellow             : 0
+LensManualDistortionAmount      : 0
+LensProfileEnable               : 0
+LookAmount                      : 1
+LookGroup                       : Profiles
+LookName                        : Adobe Color
+LookParametersCameraProfile     : Adobe Standard
+LookParametersConvertToGrayscale: False
+LookParametersLookTable         : E1095149FDB39D7A057BAB208837E2E1
+LookParametersProcessVersion    : 15.4
+LookParametersToneCurvePV2012   : 0, 0, 22, 16, 40, 35, 127, 127, 224, 230, 240, 246, 255, 255
+LookParametersToneCurvePV2012Blue: 0, 0, 255, 255
+LookParametersToneCurvePV2012Green: 0, 0, 255, 255
+LookParametersToneCurvePV2012Red: 0, 0, 255, 255
+LookParametersVersion           : 15.5
+LookSupportsAmount              : false
+LookSupportsMonochrome          : false
+LookSupportsOutputReferred      : false
+LookUUID                        : B952C231111CD8E0ECCF14B86BAA7077
+LuminanceAdjustmentAqua         : 0
+LuminanceAdjustmentBlue         : 0
+LuminanceAdjustmentGreen        : 0
+LuminanceAdjustmentMagenta      : 0
+LuminanceAdjustmentOrange       : 0
+LuminanceAdjustmentPurple       : 0
+LuminanceAdjustmentRed          : 0
+LuminanceAdjustmentYellow       : 0
+LuminanceSmoothing              : 0
+OverrideLookVignette            : False
+ParametricDarks                 : 0
+ParametricHighlightSplit        : 75
+ParametricHighlights            : 0
+ParametricLights                : 0
+ParametricMidtoneSplit          : 50
+ParametricShadowSplit           : 25
+ParametricShadows               : 0
+PerspectiveAspect               : 0
+PerspectiveHorizontal           : 0
+PerspectiveRotate               : 0.0
+PerspectiveScale                : 100
+PerspectiveUpright              : Off
+PerspectiveVertical             : 0
+PerspectiveX                    : 0.00
+PerspectiveY                    : 0.00
+PostCropVignetteAmount          : 0
+ProcessVersion                  : 15.4
+RawFileName                     : image-1.dng
+RedHue                          : 0
+RedSaturation                   : 0
+SaturationAdjustmentAqua        : 0
+SaturationAdjustmentBlue        : 0
+SaturationAdjustmentGreen       : 0
+SaturationAdjustmentMagenta     : 0
+SaturationAdjustmentOrange      : 0
+SaturationAdjustmentPurple      : 0
+SaturationAdjustmentRed         : 0
+SaturationAdjustmentYellow      : 0
+ShadowTint                      : 0
+Shadows2012                     : 0
+SharpenDetail                   : 25
+SharpenEdgeMasking              : 0
+SharpenRadius                   : +1.0
+SplitToningBalance              : 0
+SplitToningHighlightHue         : 0
+SplitToningHighlightSaturation  : 0
+SplitToningShadowHue            : 0
+SplitToningShadowSaturation     : 0
+Texture                         : 0
+Tint                            : +22
+ToneCurveName2012               : Linear
+ToneCurvePV2012                 : 0, 0, 255, 255
+ToneCurvePV2012Blue             : 0, 0, 255, 255
+ToneCurvePV2012Green            : 0, 0, 255, 255
+ToneCurvePV2012Red              : 0, 0, 255, 255
+Version                         : 15.5
+Vibrance                        : 0
+VignetteAmount                  : 0
+Whites2012                      : 0
+Format                          : image/dng
+DateCreated                     : 2023:09:14 21:29:23.847+02:00
+CreatorTool                     : Adobe DNG Converter 15.5 (Macintosh)
+Label                           : Red
+MetadataDate                    : 2023:09:15 06:02:24+01:00
+DerivedFromDocumentID           : 59880E43522B8BDF061FD7B9D34D570F
+DerivedFromOriginalDocumentID   : 59880E43522B8BDF061FD7B9D34D570F
+DocumentID                      : xmp.did:10681691-43d1-48c0-b9c0-da6f7dde7555
+HistoryAction                   : derived, saved, saved, saved
+HistoryParameters               : converted from image/x-sony-arw to image/dng, saved to new location
+HistoryChanged                  : /, /metadata, /metadata
+HistoryInstanceID               : xmp.iid:10681691-43d1-48c0-b9c0-da6f7dde7555, xmp.iid:40f0688f-7a9a-44f8-8da1-dbadc1f10cdb, xmp.iid:7ac2ad7b-1e05-4c03-970d-5de4a0472568
+HistorySoftwareAgent            : Adobe DNG Converter 15.5 (Macintosh), Adobe Photoshop Lightroom Classic 12.5 (Macintosh), Adobe Photoshop Lightroom Classic 12.5 (Macintosh)
+HistoryWhen                     : 2023:09:14 22:28:11+01:00, 2023:09:15 05:29:18+01:00, 2023:09:15 06:02:24+01:00
+InstanceID                      : xmp.iid:7ac2ad7b-1e05-4c03-970d-5de4a0472568
+OriginalDocumentID              : 59880E43522B8BDF061FD7B9D34D570F
+PreservedFileName               : 16mm_dusk_boardwalk-1.dng
+FNumber                         : 4.0
+ExposureProgram                 : Aperture-priority AE
+ISO                             : 500
+SensitivityType                 : Recommended Exposure Index
+RecommendedExposureIndex        : 500
+ExifVersion                     : 0232
+DateTimeOriginal                : 2023:09:14 21:29:23
+CreateDate                      : 2023:09:14 21:29:23
+OffsetTime                      : +01:00
+OffsetTimeOriginal              : +02:00
+OffsetTimeDigitized             : +02:00
+ShutterSpeedValue               : 1/8
+ApertureValue                   : 4.0
+BrightnessValue                 : -0.86953125
+ExposureCompensation            : -1
+MaxApertureValue                : 4.0
+MeteringMode                    : Multi-segment
+LightSource                     : Daylight Fluorescent
+Flash                           : Off, Did not fire
+SubSecTimeOriginal              : 847
+SubSecTimeDigitized             : 847
+ColorSpace                      : Uncalibrated
+FocalPlaneXResolution           : 1966.837738
+FocalPlaneYResolution           : 1966.837738
+FocalPlaneResolutionUnit        : cm
+FileSource                      : Digital Camera
+SceneType                       : Directly photographed
+CustomRendered                  : Normal
+DigitalZoomRatio                : 1
+FocalLengthIn35mmFormat         : 16 mm
+SceneCaptureType                : Standard
+LensInfo                        : 16-35mm f/4
+LensModel                       : FE 16-35mm F4 ZA OSS
+DNGVersion                      : 1.4.0.0
+DNGBackwardVersion              : 1.4.0.0
+UniqueCameraModel               : Sony ILCE-7M4
+ColorMatrix1                    : 0.8784 -0.4791 0.1177 -0.3468 1.0693 0.3213 0.0009 0.0507 0.7395
+ColorMatrix2                    : 0.746 -0.2365 -0.0588 -0.5687 1.3442 0.2474 -0.0624 0.1156 0.6584
+CameraCalibration1              : 1.013 0 0 0 1 0 0 0 0.9635
+CameraCalibration2              : 1.013 0 0 0 1 0 0 0 0.9635
+AnalogBalance                   : 1 1 1
+AsShotNeutral                   : 0.389354 1 0.637609
+BaselineExposure                : 0.35
+BaselineNoise                   : 0.6
+BaselineSharpness               : 1.33
+LinearResponseLimit             : 1
+DNGLensInfo                     : 16-35mm f/4
+ShadowScale                     : 1
+Rating                          : 0
+Contrast                        : 0
+Saturation                      : 0
+Sharpness                       : +4
+Brightness                      : 0
+LongExposureNoiseReduction      : Off
+HighISONoiseReduction           : Off
+HDR                             : Off; Uncorrected image
+WBShiftAB_GM                    : 0 0
+WBShiftAB_GM_Precise            : 0.00 0.00
+CreativeStyle                   : Standard
+ColorTemperature                : Auto
+ColorCompensationFilter         : 0
+SceneMode                       : Standard
+ZoneMatching                    : ISO Setting Used
+DynamicRangeOptimizer           : Off
+ImageStabilization              : On
+ColorMode                       : Standard
+FullImageSize                   : 7008x4672
+PreviewImageSize                : 1616x1080
+FileFormat                      : ARW 4.0
+FlashExposureComp               : 0
+WhiteBalanceFineTune            : 2
+WhiteBalance                    : Fluorescent
+SonyModelID                     : ILCE-7M4
+MultiFrameNoiseReduction        : Off
+PictureEffect                   : Off
+SoftSkinEffect                  : Off
+VignettingCorrection            : Auto
+LateralChromaticAberration      : Auto
+DistortionCorrectionSetting     : Off
+LensType                        : E-Mount, T-Mount, Other Lens or no lens
+LensSpec                        : FE 16-35mm F4 ZA OSS
+AutoPortraitFramed              : No
+FlashAction                     : Did not fire
+ElectronicFrontCurtainShutter   : Off
+FocusMode                       : Manual
+AFAreaModeSetting               : Wide
+FlexibleSpotPosition            : 0 0
+AFPointSelected                 : n/a
+AFPointsUsed                    : (none)
+AFTracking                      : Off
+FocalPlaneAFPointsUsed          : 0
+MultiFrameNREffect              : Normal
+FocusLocation                   : 7008 4672 3504 2336
+VariableLowPassFilter           : n/a
+PrioritySetInAWB                : Standard
+MeteringMode2                   : Multi-segment
+ExposureStandardAdjustment      : 0
+RAWFileType                     : Lossless Compressed RAW
+Quality                         : RAW
+PixelShiftInfo                  : n/a
+Shadows                         : 0
+Highlights                      : 0
+Fade                            : 0
+SharpnessRange                  : +3
+Clarity                         : +1
+FocusFrameSize                  : n/a
+JPEG-HEIFSwitch                 : n/a
+ExposureMode                    : Aperture-priority AE
+FlashLevel                      : Normal
+ReleaseMode                     : Normal
+SequenceNumber                  : Single
+Anti-Blur                       : On (Shooting)
+IntelligentAuto                 : Off
+SequenceFileNumber              : 1
+SequenceLength                  : 1 file
+CameraOrientation               : Horizontal (normal)
+Quality2                        : RAW
+ISOSetting                      : 500
+ISOAutoMin                      : 100
+ISOAutoMax                      : 3200
+AmbientTemperature              : 25 C
+AFAreaMode                      : Multi
+FocusPosition2                  : 236
+Tag9416_0000                    :   3
+SonyISO                         : 505
+StopsAboveBaseISO               : 2.3
+SonyExposureTime2               : 1/8
+ExposureTime                    : 1/8
+SonyFNumber2                    : 4.1
+SonyMaxApertureValue            : 4.1
+SequenceImageNumber             : 1
+LensFormat                      : Full-frame
+LensMount                       : E-mount
+LensType2                       : Sony FE 16-35mm F4 ZA OSS
+DistortionCorrParams            : 42 4 -42 -94 -158 -228 -306 -380 -454 -520 -586 -640 -690 -728 -760 -784
+PictureProfile                  : Gamma Still - Standard/Neutral (PP2)
+FocalLength                     : 16.0 mm
+MinFocalLength                  : 16.0 mm
+MaxFocalLength                  : 35.0 mm
+VignettingCorrParams            : 0 64 256 576 992 1504 2144 2880 3744 4864 6048 7136 8320 9760 11520 13152
+ChromaticAberrationCorrParams   : -952 -568 -276 -60 60 48 56 264 536 792 1024 1204 1316 1344 1268 1100 1400 1432 1400 1308 1152 920 656 396 176 52 -20 -72 -100 -84 -40 220
+BatteryTemperature              : 35.0 C
+BatteryLevel                    : 70%
+LensMount2                      : E-mount
+LensType3                       : Sony FE 16-35mm F4 ZA OSS
+CameraE-mountVersion            : 1.80
+LensE-mountVersion              : 1.40
+LensFirmwareVersion             : Ver.01.001
+Shutter                         : Silent / Electronic (0 0 0)
+FlashStatus                     : No Flash present
+ShutterCount                    :   2674
+ShutterCount2                   : 2674
+SonyExposureTime                : 1/8
+SonyFNumber                     : 4.1
+ReleaseMode2                    : Normal
+InternalSerialNumber            : 8cff0000ed08
+SR2SubIFDOffset                 : 65902
+SR2SubIFDLength                 : 35398
+SR2SubIFDKey                    : 0x44332211
+Warning                         : [minor] Bad IDC_IFD SubDirectory start
+CalibrationIlluminant1          : Standard Light A
+CalibrationIlluminant2          : D65
+RawDataUniqueID                 : 4DAACA2F5399C94FCE2F7D65090D8EB1
+OriginalRawFileName             : _LPA2402.ARW
+CameraCalibrationSig            : com.adobe
+ProfileCalibrationSig           : com.adobe
+ProfileName                     : Adobe Standard
+ProfileHueSatMapDims            : 90 30 1
+ProfileHueSatMapData1           : (large array of 8100 float values)
+ProfileHueSatMapData2           : (large array of 8100 float values)
+ProfileEmbedPolicy              : Allow Copying
+ProfileCopyright                : Copyright 2022 Adobe Systems, Inc.
+ForwardMatrix1                  : 0.4743 0.3796 0.1104 0.2023 0.7673 0.0304 0.0553 0.0008 0.769
+ForwardMatrix2                  : 0.5465 0.2614 0.1563 0.3232 0.6292 0.0475 0.1339 0.0025 0.6887
+PreviewApplicationName          : Adobe DNG Converter
+PreviewApplicationVersion       : 15.5
+PreviewSettingsDigest           : 19674da85c65da0311bebd14bcd6fd4d
+PreviewColorSpace               : sRGB
+PreviewDateTime                 : 2023:09:14 22:28:10+01:00
+ProfileLookTableDims            : 36 8 16
+ProfileLookTableData            : (large array of 13824 float values)
+NoiseProfile                    : 7.77885862516213e-05 1.01031167650613e-08 7.56115053025101e-05 1.01652653113557e-08 6.21515220874342e-05 8.78372361897667e-09
+NewRawImageDigest               : c3aca901d4511a52ef14bbf2a7aff182
+Aperture                        : 4.0
+ImageSize                       : 7008x4672
+LensID                          : Sony FE 16-35mm F4 ZA OSS
+Megapixels                      : 32.7
+PreviewImage                    : (Binary data 8453 bytes, use -b option to extract)
+ShutterSpeed                    : 1/8
+SubSecCreateDate                : 2023:09:14 21:29:23.847+02:00
+SubSecDateTimeOriginal          : 2023:09:14 21:29:23.847+02:00
+SubSecModifyDate                : 2023:09:14 22:28:11+01:00
+FocusDistance2                  : 13.79 m
+LightValue                      : 4.7
+ScaleFactor35efl                : 1.0
+CircleOfConfusion               : 0.030 mm
+FOV                             : 96.7 deg
+FocalLength35efl                : 16.0 mm (35 mm equivalent: 16.0 mm)
+HyperfocalDistance              : 2.13 m
