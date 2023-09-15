@@ -22,11 +22,12 @@ def find_keyframes(directory):
                 keyframes.append(filename)
                 keyframe_indices.append(i)
                 print(f"Found keyframe in {filename}")
-                match = re.search(r'Exposure 2012\s*:\s*([-+]?\d*\.\d+|\d+)', output)
-                if match:
-                    exposure = float(match.group(1))
-                    print(f"Exposure 2012: {exposure}")
-                    keyframe_exposures.append(exposure)
+                exposureStr = re.search(r'Exposure 2012\s*:\s*([-+]?\d*\.\d+|\d+)', output)
+                colorTemperatureStr = re.search(r'ColorTemperature 2012\s*:\s*([-+]?\d*\.\d+|\d+)', output)
+                if exposureStr:
+                    value = float(exposureStr.group(1))
+                    print(f"Exposure 2012: {value}")
+                    keyframe_exposures.append(value)
         except subprocess.CalledProcessError as e:
             print(f"Error reading metadata for {filename}: {e.stderr}")
 

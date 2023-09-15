@@ -2,9 +2,9 @@ ExifToolVersion                 : 12.60
 FileName                        : image-1.dng
 Directory                       : /Volumes/SSD500/Las Palmas Timelapse/LPA DNG/test
 FileSize                        : 9.4 MB
-FileModifyDate                  : 2023:09:15 11:33:21+01:00
-FileAccessDate                  : 2023:09:15 11:33:50+01:00
-FileInodeChangeDate             : 2023:09:15 11:33:21+01:00
+FileModifyDate                  : 2023:09:15 14:26:57+01:00
+FileAccessDate                  : 2023:09:15 14:27:06+01:00
+FileInodeChangeDate             : 2023:09:15 14:26:57+01:00
 FilePermissions                 : -rw-r--r--
 FileType                        : DNG
 FileTypeExtension               : dng
@@ -12,7 +12,7 @@ MIMEType                        : image/x-adobe-dng
 ExifByteOrder                   : Little-endian (Intel, II)
 Make                            : SONY
 Model                           : ILCE-7M4
-PreviewImageStart               : 9346296
+PreviewImageStart               : 9346356
 Orientation                     : Horizontal (normal)
 RowsPerStrip                    : 171
 PreviewImageLength              : 8453
@@ -43,150 +43,151 @@ YCbCrCoefficients               : 0.299 0.587 0.114
 YCbCrSubSampling                : YCbCr4:4:4 (1 1)
 YCbCrPositioning                : Unknown (0)
 ReferenceBlackWhite             : 0 255 128 255 128 255
-XMPToolkit                      : Adobe XMP Core 7.0-c000 1.000000, 0000/00/00-00:00:00
+XMPToolkit                      : Image::ExifTool 12.60
 LateralChromaticAberrationCorrectionAlreadyApplied: True
 Lens                            : FE 16-35mm F4 ZA OSS
 LensDistortInfo                 : 33610/32768 -123623665/1073741824 123974376/1073741824 -46645585/1073741824
-Format                          : image/dng
-DateCreated                     : 2023:09:14 21:29:23.847+02:00
-CreatorTool                     : Adobe DNG Converter 15.5 (Macintosh)
-MetadataDate                    : 2023:09:15 11:33:21+01:00
-DocumentID                      : xmp.did:10681691-43d1-48c0-b9c0-da6f7dde7555
-InstanceID                      : xmp.iid:4247c2dd-1e65-4d81-baae-ff3aa781d334
-OriginalDocumentID              : 59880E43522B8BDF061FD7B9D34D570F
-PreservedFileName               : 16mm_dusk_boardwalk-1.dng
-Version                         : 15.5
-ProcessVersion                  : 15.4
-Tint                            : +8
-Exposure2012                    : +1.02
-Contrast2012                    : +6
-Highlights2012                  : -54
-Shadows2012                     : +65
-Whites2012                      : +24
+AlreadyApplied                  : False
+AutoLateralCA                   : 0
+AutoToneDigest                  : B6D982C52CCBC69ECE66128A846EC9D4
+AutoToneDigestNoSat             : B6ECFE3434B6544D89D8AB67E8EB34EA
+AutoWhiteVersion                : 134348800
 Blacks2012                      : -15
-Texture                         : 0
+BlueHue                         : 0
+BlueSaturation                  : 0
+CameraProfile                   : Adobe Standard
+CameraProfileDigest             : A4DC20C59DE4E2DF67946B80BFDA0801
 Clarity2012                     : 0
-Dehaze                          : 0
-Vibrance                        : +11
-ParametricShadows               : 0
-ParametricDarks                 : 0
-ParametricLights                : 0
-ParametricHighlights            : 0
-ParametricShadowSplit           : 25
-ParametricMidtoneSplit          : 50
-ParametricHighlightSplit        : 75
-SharpenRadius                   : +1.0
-SharpenDetail                   : 25
-SharpenEdgeMasking              : 0
-LuminanceSmoothing              : 0
+ColorGradeBlending              : 50
+ColorGradeGlobalHue             : 0
+ColorGradeGlobalLum             : 0
+ColorGradeGlobalSat             : 0
+ColorGradeHighlightLum          : 0
+ColorGradeMidtoneHue            : 0
+ColorGradeMidtoneLum            : 0
+ColorGradeMidtoneSat            : 0
+ColorGradeShadowLum             : 0
 ColorNoiseReduction             : 25
 ColorNoiseReductionDetail       : 50
 ColorNoiseReductionSmoothness   : 50
-HueAdjustmentRed                : 0
-HueAdjustmentOrange             : 0
-HueAdjustmentYellow             : 0
-HueAdjustmentGreen              : 0
-HueAdjustmentAqua               : 0
-HueAdjustmentBlue               : 0
-HueAdjustmentPurple             : 0
-HueAdjustmentMagenta            : 0
-SaturationAdjustmentRed         : 0
-SaturationAdjustmentOrange      : 0
-SaturationAdjustmentYellow      : 0
-SaturationAdjustmentGreen       : 0
-SaturationAdjustmentAqua        : 0
-SaturationAdjustmentBlue        : 0
-SaturationAdjustmentPurple      : 0
-SaturationAdjustmentMagenta     : 0
-LuminanceAdjustmentRed          : 0
-LuminanceAdjustmentOrange       : 0
-LuminanceAdjustmentYellow       : 0
-LuminanceAdjustmentGreen        : 0
-LuminanceAdjustmentAqua         : 0
-LuminanceAdjustmentBlue         : 0
-LuminanceAdjustmentPurple       : 0
-LuminanceAdjustmentMagenta      : 0
-SplitToningShadowHue            : 0
-SplitToningShadowSaturation     : 0
-SplitToningHighlightHue         : 0
-SplitToningHighlightSaturation  : 0
-SplitToningBalance              : 0
-ColorGradeMidtoneHue            : 0
-ColorGradeMidtoneSat            : 0
-ColorGradeShadowLum             : 0
-ColorGradeMidtoneLum            : 0
-ColorGradeHighlightLum          : 0
-ColorGradeBlending              : 50
-ColorGradeGlobalHue             : 0
-ColorGradeGlobalSat             : 0
-ColorGradeGlobalLum             : 0
-AutoLateralCA                   : 0
-LensProfileEnable               : 0
-LensManualDistortionAmount      : 0
-VignetteAmount                  : 0
-DefringePurpleAmount            : 0
-DefringePurpleHueLo             : 30
-DefringePurpleHueHi             : 70
+Contrast2012                    : +6
 DefringeGreenAmount             : 0
-DefringeGreenHueLo              : 40
 DefringeGreenHueHi              : 60
-PerspectiveUpright              : Off
-PerspectiveVertical             : 0
-PerspectiveHorizontal           : 0
-PerspectiveRotate               : 0.0
-PerspectiveAspect               : 0
-PerspectiveScale                : 100
-PerspectiveX                    : 0.00
-PerspectiveY                    : 0.00
+DefringeGreenHueLo              : 40
+DefringePurpleAmount            : 0
+DefringePurpleHueHi             : 70
+DefringePurpleHueLo             : 30
+Dehaze                          : 0
+Exposure2012                    : +1.02
 GrainAmount                     : 0
-PostCropVignetteAmount          : 0
-ShadowTint                      : 0
-RedHue                          : 0
-RedSaturation                   : 0
 GreenHue                        : 0
 GreenSaturation                 : 0
-BlueHue                         : 0
-BlueSaturation                  : 0
-OverrideLookVignette            : False
-ToneCurveName2012               : Linear
-CameraProfile                   : Adobe Standard
-CameraProfileDigest             : A4DC20C59DE4E2DF67946B80BFDA0801
-AutoToneDigest                  : B6D982C52CCBC69ECE66128A846EC9D4
-AutoToneDigestNoSat             : B6ECFE3434B6544D89D8AB67E8EB34EA
 HasSettings                     : True
-AlreadyApplied                  : False
-RawFileName                     : image-1.dng
-Subject                         : keyframe, something
-DerivedFromDocumentID           : 59880E43522B8BDF061FD7B9D34D570F
-DerivedFromOriginalDocumentID   : 59880E43522B8BDF061FD7B9D34D570F
-HistoryAction                   : derived, saved, saved, saved
-HistoryParameters               : converted from image/x-sony-arw to image/dng, saved to new location
-HistoryChanged                  : /, /metadata, /metadata
-HistoryInstanceID               : xmp.iid:10681691-43d1-48c0-b9c0-da6f7dde7555, xmp.iid:40f0688f-7a9a-44f8-8da1-dbadc1f10cdb, xmp.iid:4247c2dd-1e65-4d81-baae-ff3aa781d334
-HistorySoftwareAgent            : Adobe DNG Converter 15.5 (Macintosh), Adobe Photoshop Lightroom Classic 12.5 (Macintosh), Adobe Photoshop Lightroom Classic 12.5 (Macintosh)
-HistoryWhen                     : 2023:09:14 22:28:11+01:00, 2023:09:15 05:29:18+01:00, 2023:09:15 11:33:21+01:00
-ToneCurvePV2012                 : 0, 0, 255, 255
-ToneCurvePV2012Red              : 0, 0, 255, 255
-ToneCurvePV2012Green            : 0, 0, 255, 255
-ToneCurvePV2012Blue             : 0, 0, 255, 255
-LookName                        : Adobe Color
+Highlights2012                  : -54
+HueAdjustmentAqua               : 0
+HueAdjustmentBlue               : 0
+HueAdjustmentGreen              : 0
+HueAdjustmentMagenta            : 0
+HueAdjustmentOrange             : 0
+HueAdjustmentPurple             : 0
+HueAdjustmentRed                : 0
+HueAdjustmentYellow             : 0
+LensManualDistortionAmount      : 0
+LensProfileEnable               : 0
 LookAmount                      : 1
-LookUUID                        : B952C231111CD8E0ECCF14B86BAA7077
+LookGroup                       : Profiles
+LookName                        : Adobe Color
+LookParametersCameraProfile     : Adobe Standard
+LookParametersConvertToGrayscale: False
+LookParametersLookTable         : E1095149FDB39D7A057BAB208837E2E1
+LookParametersProcessVersion    : 15.4
+LookParametersToneCurvePV2012   : 0, 0, 22, 16, 40, 35, 127, 127, 224, 230, 240, 246, 255, 255
+LookParametersToneCurvePV2012Blue: 0, 0, 255, 255
+LookParametersToneCurvePV2012Green: 0, 0, 255, 255
+LookParametersToneCurvePV2012Red: 0, 0, 255, 255
+LookParametersVersion           : 15.5
 LookSupportsAmount              : false
 LookSupportsMonochrome          : false
 LookSupportsOutputReferred      : false
-LookGroup                       : Profiles
-LookParametersVersion           : 15.5
-LookParametersProcessVersion    : 15.4
-LookParametersConvertToGrayscale: False
-LookParametersCameraProfile     : Adobe Standard
-LookParametersLookTable         : E1095149FDB39D7A057BAB208837E2E1
-LookParametersToneCurvePV2012   : 0, 0, 22, 16, 40, 35, 127, 127, 224, 230, 240, 246, 255, 255
-LookParametersToneCurvePV2012Red: 0, 0, 255, 255
-LookParametersToneCurvePV2012Green: 0, 0, 255, 255
-LookParametersToneCurvePV2012Blue: 0, 0, 255, 255
-WeightedFlatSubject             : keyframe, something
+LookUUID                        : B952C231111CD8E0ECCF14B86BAA7077
+LuminanceAdjustmentAqua         : 0
+LuminanceAdjustmentBlue         : 0
+LuminanceAdjustmentGreen        : 0
+LuminanceAdjustmentMagenta      : 0
+LuminanceAdjustmentOrange       : 0
+LuminanceAdjustmentPurple       : 0
+LuminanceAdjustmentRed          : 0
+LuminanceAdjustmentYellow       : 0
+LuminanceSmoothing              : 0
+OverrideLookVignette            : False
+ParametricDarks                 : 0
+ParametricHighlightSplit        : 75
+ParametricHighlights            : 0
+ParametricLights                : 0
+ParametricMidtoneSplit          : 50
+ParametricShadowSplit           : 25
+ParametricShadows               : 0
+PerspectiveAspect               : 0
+PerspectiveHorizontal           : 0
+PerspectiveRotate               : 0.0
+PerspectiveScale                : 100
+PerspectiveUpright              : Off
+PerspectiveVertical             : 0
+PerspectiveX                    : 0.00
+PerspectiveY                    : 0.00
+PostCropVignetteAmount          : 0
+ProcessVersion                  : 15.4
+RawFileName                     : image-1.dng
+RedHue                          : 0
+RedSaturation                   : 0
+SaturationAdjustmentAqua        : 0
+SaturationAdjustmentBlue        : 0
+SaturationAdjustmentGreen       : 0
+SaturationAdjustmentMagenta     : 0
+SaturationAdjustmentOrange      : 0
+SaturationAdjustmentPurple      : 0
+SaturationAdjustmentRed         : 0
+SaturationAdjustmentYellow      : 0
+ShadowTint                      : 0
+Shadows2012                     : +65
+SharpenDetail                   : 25
+SharpenEdgeMasking              : 0
+SharpenRadius                   : +1.0
+SplitToningBalance              : 0
+SplitToningHighlightHue         : 0
+SplitToningHighlightSaturation  : 0
+SplitToningShadowHue            : 0
+SplitToningShadowSaturation     : 0
+Texture                         : 0
+Tint                            : 0
+ToneCurveName2012               : Linear
+ToneCurvePV2012                 : 0, 0, 255, 255
+ToneCurvePV2012Blue             : 0, 0, 255, 255
+ToneCurvePV2012Green            : 0, 0, 255, 255
+ToneCurvePV2012Red              : 0, 0, 255, 255
+Version                         : 15.5
+Vibrance                        : +11
+VignetteAmount                  : 0
+Whites2012                      : +24
+Format                          : image/dng
+Subject                         : keyframe, something
 HierarchicalSubject             : keyframe, something
+WeightedFlatSubject             : keyframe, something
+DateCreated                     : 2023:09:14 21:29:23.847+02:00
+CreatorTool                     : Adobe DNG Converter 15.5 (Macintosh)
+MetadataDate                    : 2023:09:15 12:00:34+01:00
+DerivedFromDocumentID           : 59880E43522B8BDF061FD7B9D34D570F
+DerivedFromOriginalDocumentID   : 59880E43522B8BDF061FD7B9D34D570F
+DocumentID                      : xmp.did:10681691-43d1-48c0-b9c0-da6f7dde7555
+HistoryAction                   : derived, saved, saved, saved
+HistoryParameters               : converted from image/x-sony-arw to image/dng, saved to new location
+HistoryChanged                  : /, /metadata, /metadata
+HistoryInstanceID               : xmp.iid:10681691-43d1-48c0-b9c0-da6f7dde7555, xmp.iid:40f0688f-7a9a-44f8-8da1-dbadc1f10cdb, xmp.iid:09f433d7-756a-446f-a2e2-2490af142c9d
+HistorySoftwareAgent            : Adobe DNG Converter 15.5 (Macintosh), Adobe Photoshop Lightroom Classic 12.5 (Macintosh), Adobe Photoshop Lightroom Classic 12.5 (Macintosh)
+HistoryWhen                     : 2023:09:14 22:28:11+01:00, 2023:09:15 05:29:18+01:00, 2023:09:15 12:00:34+01:00
+InstanceID                      : xmp.iid:09f433d7-756a-446f-a2e2-2490af142c9d
+OriginalDocumentID              : 59880E43522B8BDF061FD7B9D34D570F
+PreservedFileName               : 16mm_dusk_boardwalk-1.dng
 FNumber                         : 4.0
 ExposureProgram                 : Aperture-priority AE
 ISO                             : 500
@@ -246,7 +247,7 @@ HDR                             : Off; Uncorrected image
 WBShiftAB_GM                    : 0 0
 WBShiftAB_GM_Precise            : 0.00 0.00
 CreativeStyle                   : Standard
-ColorTemperature                : Auto
+ColorTemperature                : 5000
 ColorCompensationFilter         : 0
 SceneMode                       : Standard
 ZoneMatching                    : ISO Setting Used
