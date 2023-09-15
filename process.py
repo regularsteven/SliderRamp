@@ -3,6 +3,9 @@ import os
 import subprocess
 import re
 
+#metadata worth caring about
+# Exposure2012 Tint / Contrast2012 / Highlights2012 / Shadows2012 / Whites2012 / Blacks2012 / Texture / Clarity2012 / Dehaze / Vibrance
+
 def find_keyframes(directory):
     dng_files = [f for f in os.listdir(directory) if f.lower().endswith(".dng")]
 
