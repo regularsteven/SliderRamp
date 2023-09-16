@@ -28,6 +28,10 @@ def convert_exiftool_output_to_dict(output):
 def find_keyframes(directory):
     dng_files = [f for f in os.listdir(directory) if f.lower().endswith(".dng")]
 
+    #sort the the files by index number in filename
+    dng_files.sort(key=lambda f: int(re.sub('\D', '', f)))
+    # 
+    
     keyframes = []
     keyframe_indices = []
     keyframe_exposures = []
@@ -73,6 +77,7 @@ def calc_value_between_two_values(values, percentage):
 def adjust_exposure(directory, keyframe_data):
     # Get a list of all DNG files in the specified directory
     dng_files = [f for f in os.listdir(directory) if f.lower().endswith(".dng")]
+    dng_files.sort(key=lambda f: int(re.sub('\D', '', f)))
 
     keyframe_indices = keyframe_data[1] #[dng_files.index(name) for name in keyframe_data[0]]
 
