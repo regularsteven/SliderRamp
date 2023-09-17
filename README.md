@@ -33,7 +33,6 @@ Adobe Lightroom Classic, with specific folders added to Catalogue Folders. Save 
 - run `python3 process.py /Volumes/SSD500/Las\ Palmas\ Timelapse/LPA\ DNG/test`
 
 5) At completion, read the metadata from the updated DNG files inside of Lightroom
- - 
 
 
 # Troubleshooting
