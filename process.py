@@ -19,6 +19,12 @@ def convert_exiftool_output_to_dict(output):
             metadata[split_line[0].strip()] = bool(split_line[1].strip())
         else:
             metadata[split_line[0].strip()] = split_line[1].strip()
+        
+        if split_line[0].strip() == "Subject" and "temp_" in split_line[1].strip():
+            temp_split = split_line[1].strip().split("temp_")[1]
+            metadata["ColorTemperature"] = int(temp_split.split(",")[0]) #if there's extra tags
+    
+
     return metadata
 
 
@@ -115,7 +121,7 @@ def adjust_exposure(directory, keyframe_data):
         new_tint = int(calc_value_between_two_values(keys, percentage_progress))
         
         keyToManage = "ColorTemperature"
-        keys = [9205, 3150]
+        keys = [keyframe_data[3][0][keyToManage], keyframe_data[3][1][keyToManage]]
         
         new_color_temperature = int(calc_value_between_two_values(keys, percentage_progress))
         
