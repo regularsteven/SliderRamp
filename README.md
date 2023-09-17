@@ -1,16 +1,6 @@
 # SliderRamp
 Utilities for adjusting contoler sliders over time for timelapse sequences and subtle changes in Lightroom Classic
 
-
-# exiftool -overwrite_original -"Exposure 2012=-1.0" image-1.dng
-# exiftool -s /Volumes/SSD500/Las\ Palmas\ Timelapse/LPA\ DNG/test/image-1.dng > exif_dump.txt
-
-
-exiftool -overwrite_original -"Tint"="0" image-1.dng
-
-exiftool -overwrite_original -"AutoWhiteVersion"="134348800" image-1.dng
-
-
 # Requirements
 Python 3.11
 exiftool - https://exiftool.org/install.html
@@ -46,3 +36,10 @@ Need to implement a simple method to run this utility. Commandline is yuk for mo
 And so much more... Need to add support for
     • Contrast2012 • Highlights2012 • Shadows2012 • Whites2012 • Blacks2012 • Texture • Clarity2012 • Dehaze • Vibrance and so on
 Will also add support for transitions of masks.
+
+
+# testing
+`exiftool -overwrite_original -"Exposure 2012=-1.0" image-1.dng`
+`exiftool -s /Volumes/SSD500/Las\ Palmas\ Timelapse/LPA\ DNG/test/image-1.dng > exif_dump.txt`
+`exiftool -overwrite_original -"Tint"="0" image-1.dng`
+`exiftool -overwrite_original -"AutoWhiteVersion"="134348800" image-1.dng`
