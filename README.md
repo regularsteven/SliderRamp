@@ -1,6 +1,5 @@
-# LightTime
-Utilities for adjusting settings over time for timelapse sequences in Lightroom Classic
-
+# SliderRamp
+Utilities for adjusting contoler sliders over time for timelapse sequences and subtle changes in Lightroom Classic
 
 # exiftool -overwrite_original -"Exposure 2012=-1.0" image-1.dng
 # exiftool -s /Volumes/SSD500/Las\ Palmas\ Timelapse/LPA\ DNG/test/image-1.dng > exif_dump.txt
